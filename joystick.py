@@ -1,3 +1,4 @@
+import utils.session
 import serial
 import time
 from vpython import sphere, vector, color, rate
